@@ -72,7 +72,9 @@ F H <BR>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
+<hr>
 ![Screenshot 2025-04-16 154705](https://github.com/user-attachments/assets/0cfbb882-64c3-45b6-9c97-37d0fa48b2b2)
+<hr>
 
 <hr>
 
@@ -90,7 +92,9 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
+<hr>
 ![Screenshot 2025-04-16 154849](https://github.com/user-attachments/assets/956e117b-09e0-4447-b7d6-9a6fda45f031)
+<hr>
 
 <hr>
 <h3>Result:</h3>
